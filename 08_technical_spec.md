@@ -40,7 +40,7 @@
 | 배치 수집 | GitHub Actions + Python | 0원 목표 | KRX/DART 수집 및 가공 |
 | 시장 데이터 | KRX | 0원 API/공개 데이터 범위 | 시장/가격 데이터 |
 | 재무 데이터 | DART OpenDART | 0원 API | 재무제표/공시 데이터 |
-| AI 분석 | ChatGPT | 기존 사용 환경 | 기업/산업/해자/리스크 분석 |
+| AI 분석 | Gemini | 0월 API | 기업/산업/해자/리스크 분석 |
 
 무료 한도와 정책은 변경될 수 있으므로 실제 배포 시 최신 공식 문서를 확인한다.
 
@@ -1407,7 +1407,7 @@ Cloudflare Workers
 HTML/JS
 = 사용자 화면
 
-ChatGPT
+Gemini api
 = 기업/산업/해자/리스크 분석 보조
 ```
 

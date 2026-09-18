@@ -1,4 +1,4 @@
-# 07_TECHNICAL_SPEC.md
+# 06_TECHNICAL_SPEC.md
 
 ## 1. 목적
 
